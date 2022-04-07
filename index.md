@@ -2,7 +2,7 @@
 title: Home
 ---
 
-# Slogan
+# SARS-CoV-2 Research Initiative at OHSU
 
 [devin schoen](https://github.com/devin-schoen) is testing out webpages
 
