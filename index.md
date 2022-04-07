@@ -27,7 +27,7 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/ohsu.jpg" %}
 
 {% include section.html %}
 
