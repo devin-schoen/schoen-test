@@ -27,7 +27,7 @@ title: Home
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/ohsu2.jpg" %}
+{% include banner.html image="images/ohsu3.jpg" %}
 
 {% include section.html %}
 
@@ -48,7 +48,7 @@ short description of our research
 
 {%
   include feature.html
-  image="images/researc.png"
+  image="images/research.png"
   link="research"
   title="Our Research"
   text=text
