@@ -1,22 +1,18 @@
 ### basic settings
 
 # site properties and page defaults
-title: Lab Website Template
-description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
-logo: images/logo.svg
+title: SARS-CoV-2 Serology Study
+description: A mult-lab research initiative at Oregon Health & Science University
+logo: images/logo2.jpg
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /schoen-test
 
 # site social media and other links
 links:
-  email: jane.smith@your-lab.com
-  google-scholar: Jane Smith
-  github: your-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
-
+  email: devin-schoen@berkeley.edu
+  github: devin-schoen
+  
 ### advanced settings
 
 # automatic citations
