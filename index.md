@@ -7,22 +7,6 @@ title: Home
 [devin schoen](https://github.com/devin-schoen) is testing out webpages
 
 
-{%
-  include link.html
-  type="github"
-  icon=""
-  text="Check out our GitHub"
-  link="cv19-ohsu"
-  style="button"
-%}
-{%
-  include link.html
-  type="docs"
-  icon=""
-  text="See the occupational health homepage"
-  link="https://o2.ohsu.edu/occupational-health/index.cfm"
-  style="button"
-%}
 {:.center}
 
 {% include section.html full=true %}
